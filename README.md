@@ -43,5 +43,5 @@ https://www.creajeux.fr/project/grim-reaper/
 
 
 ### Trailer
-[![Trailer](https://i.ytimg.com/an_webp/2tUiQWcvGOU/mqdefault_6s.webp?du=3000&sqp=CIPU7PsF&rs=AOn4CLCd4fvB0OwpMiQ58mWQMuO_3W_4-g)](https://www.youtube.com/watch?v=pVuddCb_RK4)
+[![Trailer](https://img.youtube.com/vi/pVuddCb_RK4/0.jpg)](https://www.youtube.com/watch?v=pVuddCb_RK4)
 
