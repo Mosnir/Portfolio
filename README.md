@@ -29,4 +29,19 @@ https://www.creajeux.fr/project/inari/
 ### Trailer
 [![Trailer](https://img.youtube.com/vi/BZAh1M4cmQY/0.jpg)](https://www.youtube.com/watch?v=BZAh1M4cmQY)
 
-#### More details : https://github.com/vincent-breysse/inari
+# Grim Reaper [CSFML]
+-------------------------------------------------------
+#### Jan 2018 – May 2018
+
+Grim Reaper is a 2d action/platformer person 3D platformer puzzle game we did during our 2nd year of studies.  
+We used HacknPlan and the SCRUM method for project management and had 4 milestones throughout the year.  
+https://www.creajeux.fr/project/grim-reaper/ 
+- Technology : CSFML
+- Target : PC
+- Team : 6 programmers, 3 artists
+- Time : 8 full-time weeks
+
+
+### Trailer
+[![Trailer](https://i.ytimg.com/an_webp/2tUiQWcvGOU/mqdefault_6s.webp?du=3000&sqp=CIPU7PsF&rs=AOn4CLCd4fvB0OwpMiQ58mWQMuO_3W_4-g)](https://www.youtube.com/watch?v=pVuddCb_RK4)
+
